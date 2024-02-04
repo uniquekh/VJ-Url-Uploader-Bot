@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @criminal
+# Don't Remove Credit Tg - @criminal073
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @Unique8272
+# Ask Doubt on telegram @criminal073
 
 from config import Config
 from database.database import Database
